@@ -88,6 +88,11 @@ button {
     cursor: pointer;
 }
 
+button a {
+    text-decoration: none;
+    color: #fff;
+}
+
 #rodape {
     background: url(./img/imagem2.png);
     width: 1440px;
